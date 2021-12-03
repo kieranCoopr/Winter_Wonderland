@@ -12,9 +12,14 @@ body{
     height: 100vh;
     justify-content: center;
     align-items: center;
+    background-color: rgb(114, 17, 4);
 }
 
 h1{
     text-align: center;
     padding-bottom: 10px;
+
+    color: rgb(131, 129, 27);
+    font-family: 'Gwendolyn', cursive;
+    font-size: 50px;
 }
